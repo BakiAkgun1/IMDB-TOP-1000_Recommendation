@@ -33,6 +33,15 @@ Similarity Calculation: Cosine similarity has been used to build the movie recom
 Apriori Algorithm: Association rules have been analyzed based on movie descriptions.
 Data Processing: Data processing and analysis have been performed using KNIME.
 ## Screenshots
-Visualization 1: Image 1
-Visualization 2: Image 2
-Visualization 3: Image 3
+Visualization 1: ![Screenshot 2024-07-22 132902](https://github.com/user-attachments/assets/3d65a494-9797-4498-b0e8-8c2757609182)
+
+Visualization 2: ![Screenshot 2024-07-22 132908](https://github.com/user-attachments/assets/80471a27-7c6d-4611-bb1b-b94bb4bd8625)
+
+Visualization 3:![Screenshot 2024-07-22 132914](https://github.com/user-attachments/assets/0e096fec-d33d-4b03-abee-1f35955b4cbd)
+
+Visualization 4: ![image](https://github.com/user-attachments/assets/960e44a3-0159-4548-a885-4828afdcdaed)
+
+## Issues
+1-Dataset have many repeteteive row
+2-FP-Growth model take much time so I can't take result.
+3-I didn't build this mdoel on Knime, So I try again.
