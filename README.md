@@ -42,6 +42,8 @@ Visualization 3:![Screenshot 2024-07-22 132914](https://github.com/user-attachme
 Visualization 4: ![image](https://github.com/user-attachments/assets/960e44a3-0159-4548-a885-4828afdcdaed)
 
 ## Issues
-1-Dataset have many repeteteive row
-2-FP-Growth model take much time so I can't take result.
-3-I didn't build this mdoel on Knime, So I try again.
+### 1-Dataset have many repeteteive row
+
+### 2-FP-Growth model take much time so I can't take result.
+
+### 3-I didn't build this mdoel on Knime, So I try again.
